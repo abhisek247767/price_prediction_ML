@@ -34,3 +34,6 @@ The data contains information regarding mobile phone features, specifications et
 
 * This kind of prediction will help companies estimate price of mobiles to give tough competion to other mobile manufacturer
 * Also it will be usefull for Consumers to verify that they are paying best price for a mobile.
+
+# Important Point:
+If you add more algorithm on this data and contribute my repository.sent the pull request I am happy to merge it.
